@@ -10651,6 +10651,15 @@ zone
 // zuerich : 2014-11-07 Kanton Zürich (Canton of Zurich)
 zuerich
 
+// === Marketly Changes ===
+// The below are moved from private to public domains to avoid
+// incorrect parsing by this package
+
+// iDOT Services Limited : http://www.domain.gr.com
+// Submitted by Gavin Brown <gavin.brown@centralnic.com>
+gr.com
+
+
 
 // ===END ICANN DOMAINS===
 // ===BEGIN PRIVATE DOMAINS===
@@ -10949,10 +10958,6 @@ uy.com
 // Africa.com Web Solutions Ltd : https://registry.africa.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 africa.com
-
-// iDOT Services Limited : http://www.domain.gr.com
-// Submitted by Gavin Brown <gavin.brown@centralnic.com>
-gr.com
 
 // Radix FZC : http://domains.in.net
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
