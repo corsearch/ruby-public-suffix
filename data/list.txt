@@ -10659,6 +10659,42 @@ zuerich
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 gr.com
 
+// CentralNic : http://www.centralnic.com/names/domains
+// Submitted by registry <gavin.brown@centralnic.com>
+ae.org
+br.com
+cn.com
+com.de
+com.se
+de.com
+eu.com
+gb.net
+hu.net
+jp.net
+jpn.com
+mex.com
+ru.com
+sa.com
+se.net
+uk.com
+uk.net
+us.com
+za.bz
+za.com
+
+// No longer operated by CentralNic, these entries should be adopted and/or removed by current operators
+// Submitted by Gavin Brown <gavin.brown@centralnic.com>
+ar.com
+gb.com
+hu.com
+kr.com
+no.com
+qc.com
+uy.com
+
+// Scottish Government: https://www.gov.scot
+// Submitted by Martin Ellis <martin.ellis@gov.scot>
+gov.scot
 
 
 // ===END ICANN DOMAINS===
@@ -10922,39 +10958,6 @@ carrd.co
 crd.co
 uwu.ai
 
-// CentralNic : http://www.centralnic.com/names/domains
-// Submitted by registry <gavin.brown@centralnic.com>
-ae.org
-br.com
-cn.com
-com.de
-com.se
-de.com
-eu.com
-gb.net
-hu.net
-jp.net
-jpn.com
-mex.com
-ru.com
-sa.com
-se.net
-uk.com
-uk.net
-us.com
-za.bz
-za.com
-
-// No longer operated by CentralNic, these entries should be adopted and/or removed by current operators
-// Submitted by Gavin Brown <gavin.brown@centralnic.com>
-ar.com
-gb.com
-hu.com
-kr.com
-no.com
-qc.com
-uy.com
-
 // Africa.com Web Solutions Ltd : https://registry.africa.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 africa.com
@@ -11102,6 +11105,7 @@ co.no
 webhosting.be
 hosting-cluster.nl
 
+// Maybe the below
 // Coordination Center for TLD RU and XN--P1AI : https://cctld.ru/en/domains/domens_ru/reserved/
 // Submitted by George Georgievsky <gug@cctld.ru>
 ac.ru
@@ -11172,6 +11176,7 @@ mydatto.com
 dattolocal.net
 mydatto.net
 
+// maybe the below
 // Dansk.net : http://www.dansk.net/
 // Submitted by Anani Voule <digital@digital.co.dk>
 biz.dk
@@ -11595,6 +11600,7 @@ staging.onred.one
 enonic.io
 customer.enonic.io
 
+// maybe the below, but probably not
 // EU.org https://eu.org/
 // Submitted by Pierre Beyssac <hostmaster@eu.org>
 eu.org
@@ -11681,6 +11687,7 @@ onfabrica.com
 // Submitted by Peter Ruibal <public-suffix@fb.com>
 apps.fbsbx.com
 
+// don't think so but maybe
 // FAITID : https://faitid.org/
 // Submitted by Maxim Alzoba <tech.contact@faitid.org>
 // https://www.flexireg.net/stat_info
@@ -12919,10 +12926,6 @@ logoip.com
 // schokokeks.org GbR : https://schokokeks.org/
 // Submitted by Hanno Böck <hanno@schokokeks.org>
 schokokeks.net
-
-// Scottish Government: https://www.gov.scot
-// Submitted by Martin Ellis <martin.ellis@gov.scot>
-gov.scot
 
 // Scry Security : http://www.scrysec.com
 // Submitted by Shante Adam <shante@skyhat.io>
