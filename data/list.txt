@@ -10651,17 +10651,64 @@ zone
 // zuerich : 2014-11-07 Kanton Zürich (Canton of Zurich)
 zuerich
 
-// === Marketly Changes ===
+// ===END ICANN DOMAINS===
+
+// ===BEGIN MARKETLY CUSTOMIZATIONS===
 // The below are moved from private to public domains to avoid
 // incorrect parsing by this package
+
+// CentralNic : http://www.centralnic.com/names/domains
+// Submitted by registry <gavin.brown@centralnic.com>
+ae.org
+br.com
+cn.com
+com.de
+com.se
+de.com
+eu.com
+gb.net
+hu.net
+jp.net
+jpn.com
+mex.com
+ru.com
+sa.com
+se.net
+uk.com
+uk.net
+us.com
+za.bz
+za.com
+
+// No longer operated by CentralNic, these entries should be adopted and/or removed by current operators
+// Submitted by Gavin Brown <gavin.brown@centralnic.com>
+ar.com
+gb.com
+hu.com
+kr.com
+no.com
+qc.com
+uy.com
+
+// Coordination Center for TLD RU and XN--P1AI : https://cctld.ru/en/domains/domens_ru/reserved/
+// Submitted by George Georgievsky <gug@cctld.ru>
+ac.ru
+edu.ru
+gov.ru
+int.ru
+mil.ru
+test.ru
 
 // iDOT Services Limited : http://www.domain.gr.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 gr.com
 
+// Scottish Government: https://www.gov.scot
+// Submitted by Martin Ellis <martin.ellis@gov.scot>
+gov.scot
 
+// ===END MARKETLY CUSTOMIZATIONS===
 
-// ===END ICANN DOMAINS===
 // ===BEGIN PRIVATE DOMAINS===
 // (Note: these are in alphabetical order by company name)
 
@@ -10872,7 +10919,6 @@ balena-devices.com
 app.banzaicloud.io
 *.backyards.banzaicloud.io
 
-
 // BetaInABox
 // Submitted by Adrian <adrian@betainabox.com>
 betainabox.com
@@ -10921,39 +10967,6 @@ mycd.eu
 carrd.co
 crd.co
 uwu.ai
-
-// CentralNic : http://www.centralnic.com/names/domains
-// Submitted by registry <gavin.brown@centralnic.com>
-ae.org
-br.com
-cn.com
-com.de
-com.se
-de.com
-eu.com
-gb.net
-hu.net
-jp.net
-jpn.com
-mex.com
-ru.com
-sa.com
-se.net
-uk.com
-uk.net
-us.com
-za.bz
-za.com
-
-// No longer operated by CentralNic, these entries should be adopted and/or removed by current operators
-// Submitted by Gavin Brown <gavin.brown@centralnic.com>
-ar.com
-gb.com
-hu.com
-kr.com
-no.com
-qc.com
-uy.com
 
 // Africa.com Web Solutions Ltd : https://registry.africa.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
@@ -11101,15 +11114,6 @@ co.no
 // Submitted by Thomas Wouters <thomas.wouters@combellgroup.com>
 webhosting.be
 hosting-cluster.nl
-
-// Coordination Center for TLD RU and XN--P1AI : https://cctld.ru/en/domains/domens_ru/reserved/
-// Submitted by George Georgievsky <gug@cctld.ru>
-ac.ru
-edu.ru
-gov.ru
-int.ru
-mil.ru
-test.ru
 
 // COSIMO GmbH : http://www.cosimo.de
 // Submitted by Rene Marticke <rmarticke@cosimo.de>
@@ -12919,10 +12923,6 @@ logoip.com
 // schokokeks.org GbR : https://schokokeks.org/
 // Submitted by Hanno Böck <hanno@schokokeks.org>
 schokokeks.net
-
-// Scottish Government: https://www.gov.scot
-// Submitted by Martin Ellis <martin.ellis@gov.scot>
-gov.scot
 
 // Scry Security : http://www.scrysec.com
 // Submitted by Shante Adam <shante@skyhat.io>
