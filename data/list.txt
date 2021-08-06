@@ -10696,6 +10696,10 @@ uy.com
 // Submitted by Martin Ellis <martin.ellis@gov.scot>
 gov.scot
 
+// Radix FZC : http://domains.in.net
+// Submitted by Gavin Brown <gavin.brown@centralnic.com>
+in.net
+web.in
 
 // ===END ICANN DOMAINS===
 // ===BEGIN PRIVATE DOMAINS===
@@ -10961,11 +10965,6 @@ uwu.ai
 // Africa.com Web Solutions Ltd : https://registry.africa.com
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
 africa.com
-
-// Radix FZC : http://domains.in.net
-// Submitted by Gavin Brown <gavin.brown@centralnic.com>
-in.net
-web.in
 
 // US REGISTRY LLC : http://us.org
 // Submitted by Gavin Brown <gavin.brown@centralnic.com>
