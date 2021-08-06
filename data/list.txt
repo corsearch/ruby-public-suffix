@@ -10651,13 +10651,11 @@ zone
 // zuerich : 2014-11-07 Kanton Zürich (Canton of Zurich)
 zuerich
 
-// === Marketly Changes ===
+// ===END ICANN DOMAINS===
+
+// ===BEGIN MARKETLY CUSTOMIZATIONS===
 // The below are moved from private to public domains to avoid
 // incorrect parsing by this package
-
-// iDOT Services Limited : http://www.domain.gr.com
-// Submitted by Gavin Brown <gavin.brown@centralnic.com>
-gr.com
 
 // CentralNic : http://www.centralnic.com/names/domains
 // Submitted by registry <gavin.brown@centralnic.com>
@@ -10692,6 +10690,19 @@ no.com
 qc.com
 uy.com
 
+// Coordination Center for TLD RU and XN--P1AI : https://cctld.ru/en/domains/domens_ru/reserved/
+// Submitted by George Georgievsky <gug@cctld.ru>
+ac.ru
+edu.ru
+gov.ru
+int.ru
+mil.ru
+test.ru
+
+// iDOT Services Limited : http://www.domain.gr.com
+// Submitted by Gavin Brown <gavin.brown@centralnic.com>
+gr.com
+
 // Scottish Government: https://www.gov.scot
 // Submitted by Martin Ellis <martin.ellis@gov.scot>
 gov.scot
@@ -10701,7 +10712,8 @@ gov.scot
 in.net
 web.in
 
-// ===END ICANN DOMAINS===
+// ===END MARKETLY CUSTOMIZATIONS===
+
 // ===BEGIN PRIVATE DOMAINS===
 // (Note: these are in alphabetical order by company name)
 
@@ -10912,7 +10924,6 @@ balena-devices.com
 app.banzaicloud.io
 *.backyards.banzaicloud.io
 
-
 // BetaInABox
 // Submitted by Adrian <adrian@betainabox.com>
 betainabox.com
@@ -11104,16 +11115,6 @@ co.no
 webhosting.be
 hosting-cluster.nl
 
-// Maybe the below
-// Coordination Center for TLD RU and XN--P1AI : https://cctld.ru/en/domains/domens_ru/reserved/
-// Submitted by George Georgievsky <gug@cctld.ru>
-ac.ru
-edu.ru
-gov.ru
-int.ru
-mil.ru
-test.ru
-
 // COSIMO GmbH : http://www.cosimo.de
 // Submitted by Rene Marticke <rmarticke@cosimo.de>
 dyn.cosidns.de
@@ -11175,7 +11176,6 @@ mydatto.com
 dattolocal.net
 mydatto.net
 
-// maybe the below
 // Dansk.net : http://www.dansk.net/
 // Submitted by Anani Voule <digital@digital.co.dk>
 biz.dk
@@ -11599,7 +11599,6 @@ staging.onred.one
 enonic.io
 customer.enonic.io
 
-// maybe the below, but probably not
 // EU.org https://eu.org/
 // Submitted by Pierre Beyssac <hostmaster@eu.org>
 eu.org
@@ -11686,7 +11685,6 @@ onfabrica.com
 // Submitted by Peter Ruibal <public-suffix@fb.com>
 apps.fbsbx.com
 
-// don't think so but maybe
 // FAITID : https://faitid.org/
 // Submitted by Maxim Alzoba <tech.contact@faitid.org>
 // https://www.flexireg.net/stat_info
