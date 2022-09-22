@@ -10712,6 +10712,11 @@ gov.scot
 in.net
 web.in
 
+// FAITID : https://faitid.org/
+// Submitted by Maxim Alzoba <tech.contact@faitid.org>
+// https://www.flexireg.net/stat_info
+com.ru
+
 // ===END MARKETLY CUSTOMIZATIONS===
 
 // ===BEGIN PRIVATE DOMAINS===
@@ -11693,7 +11698,6 @@ adygeya.ru
 bashkiria.ru
 bir.ru
 cbg.ru
-com.ru
 dagestan.ru
 grozny.ru
 kalmykia.ru
